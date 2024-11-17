@@ -18,7 +18,7 @@ myip
 ### Example output
 ```
 ===================================
-User:              anlaki
+User:              root
 Localhost:         127.0.0.1
 Local IP Address:  192.168.1.100
 Public IP Address: xxx.xxx.xxx.xxx
