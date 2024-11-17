@@ -17,12 +17,15 @@ myip
 
 ### Example output
 ```
+root@ubuntu ~/g/myip # myip
 ===================================
 User:              root
 Localhost:         127.0.0.1
 Local IP Address:  192.168.1.100
-Public IP Address: xxx.xxx.xxx.xxx
+Public IP Address: xxx.xxx.xx.xx
 ===================================
+root@ubuntu ~/g/myip #
+
 ```
 
 ### Features
