@@ -1,4 +1,4 @@
-#!/system/bin/sh
+#!/bin/bash
 
 # Function to run commands as root
 run_as_root() {
